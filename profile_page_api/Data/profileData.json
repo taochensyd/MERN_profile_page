@@ -1,0 +1,400 @@
+{
+    "profile": {
+        "personalInfo": [
+            {
+                "id": 1,
+                "name": {
+                    "first": "Tao",
+                    "last": "Chen"
+                },
+                "address": {
+                    "address": "31 Rawson Street",
+                    "city": "Lidcombe",
+                    "state": "NSW",
+                    "postCode": "2141",
+                    "country": "Australia"
+                },
+                "contact": {
+                    "email": "taochensyd@gmail.com",
+                    "phone": "0466 337 173",
+                    "website": "",
+                    "linkedin": ""
+                }
+            }
+        ],
+        "workExperiences": [
+            {
+                "id": 2,
+                "userId": 1,
+                "companyName": "Thomax Technology",
+                "location": "Pymble, Sydney",
+                "position": "Technical Analyst",
+                "startDate": "February 2022",
+                "endDate": "Present",
+                "workDescrition": [
+                    "Assisting customer with technical enquires, training and implementation projects across multiple custom software applications",
+                    "Contributing to and developing documentation and case logs.",
+                    "Providing first class support via phone, email and onsite support to new and established clients.",
+                    "Manage Jira Service Desk Ticket System, diagnosis and distribute workload across team members based on priority.",
+                    "Hardware & Peripherals such as Thermal & Laser printers, PDA/PDT devices, switch and route.",
+                    "Troubleshooting network connectivity issue on printer gateway and other networking devices.",
+                    "Diagnostic, problem solving skills and to explain to user with non-technical background."
+                ]
+            },
+            {
+                "id": 1,
+                "userId": 1,
+                "companyName": "Collins Aerospace",
+                "location": "Sydney Airport, Mascot, Sydney",
+                "position": "Information Technology Support",
+                "startDate": "January 2019",
+                "endDate": "June 2020",
+                "workDescrition": [
+                    "Managed for telecommunication products and services including technical troubleshooting, field hardware support and on-the-phone support; optimized process flows and reduced response time by 10%. ",
+                    "elivered IT support via phone, email, remote desktop (RDP) in mix of helpdesk and onsite support to external clients in a fast-paced environment. Meeting close to 100% of Services Level Agreements.",
+                    "Analyzed in implementation of new hardware and software with team member to improve workflow and customer service provision, resulting 15% faster deployment time.",
+                    "Resolved issues related to Windows, network connectivity, software and hardware in a timely manner and documented using keyword in ticket descriptions, improving ability to search records up to 20% faster.",
+                    "Performed daily back-up checks for local database servers.",
+                    "Discovered innovative solutions to common and exceptional problems identified on help tickets, reducing searching time by 35% in unusual issues.",
+                    "Coordinated with senior technicians with complex tasks and time-sensitive achievements to meet client expectations and user needs on an identified schedule, completed ahead of schedule"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "id": 2,
+                "userId": 1,
+                "courseName": "Master of Information Technology",
+                "universityName": "University of Technology Sydney",
+                "startDate": "August 2020",
+                "endDate": "December 2021",
+                "major": [
+                    "Software Development"
+                ],
+                "subMajor": [
+                    null
+                ],
+                "relevantCourse": "Network Management, Cloud computing, SQL Database, Troubleshooting, Website Development and Deployment, IT Management, System Analysis."
+            },
+            {
+                "id": 1,
+                "userId": 1,
+                "courseName": "Bachelor of Information and Communications Technology",
+                "universityName": "Western Sydney University",
+                "startDate": "February 2017",
+                "endDate": "September 2019",
+                "major": [
+                    null
+                ],
+                "subMajor": [
+                    "Networking",
+                    "Mobile Computing"
+                ],
+                "relevantCourse": "Networking (LAN, wireless, cellular), Database (SQL), Web Technology (HTML, CSS, JavaScript, PHP, AJAX, API), Cloud (AWS), Network Security, Computer Graphic, Human Computer Interaction, Operating System Programming, Data Analysis."
+            }
+        ],
+        "skills": [
+            {
+              "id": 1,
+              "userId": 1,
+              "skill": "JavaScript",
+              "subSkills": [
+                "ES6",
+                "Control Flow",
+                "Error Handling",
+                "Fetch API",
+                "Higher-Order Functions"
+              ],
+              "category": "Front-End",
+              "section": "",
+              "level": "5"
+            },
+            {
+              "id": 2,
+              "userId": 1,
+              "skill": "Node.JS",
+              "subSkills": [
+                "NPM - Node Package Manager"
+              ],
+              "category": "Back-End",
+              "section": "",
+              "level": "5"
+            },
+            {
+              "id": 3,
+              "userId": 1,
+              "skill": "Amazon Web Service - AWS",
+              "subSkills": [
+                "EC2",
+                "S3",
+                "Route53",
+                "Cloud9",
+                "CloutFront",
+                "Elastic Beanstalk",
+                "AWS Amplify"
+              ],
+              "category": "Cloud",
+              "section": "",
+              "level": "4"
+            },
+            {
+              "id": 4,
+              "userId": 1,
+              "skill": "Team Work",
+              "subSkills": [
+                "Communications",
+                "Email",
+                "Task Progress"
+              ],
+              "category": "Soft Skills",
+              "section": "",
+              "level": "5"
+            },
+            {
+              "id": 5,
+              "userId": 1,
+              "skill": "HTML5",
+              "subSkills": [
+                "Layout Structure"
+              ],
+              "category": "Front-End",
+              "section": "",
+              "level": "5"
+            },
+            {
+              "id": 6,
+              "userId": 1,
+              "skill": "CSS3",
+              "subSkills": [
+                "Flex-box"
+              ],
+              "category": "Front-End",
+              "section": "",
+              "level": "5"
+            },
+            {
+              "id": 7,
+              "userId": 1,
+              "skill": "TypeScript",
+              "subSkills": [
+                "Data Types"
+              ],
+              "category": "Front-End",
+              "section": "",
+              "level": "5"
+            },
+            {
+              "id": 8,
+              "userId": 1,
+              "skill": "React",
+              "subSkills": [
+                "JSX",
+                "React-Rudux",
+                "Context API"
+              ],
+              "category": "Front-End",
+              "section": "",
+              "level": "5"
+            },
+            {
+              "id": 9,
+              "userId": 1,
+              "skill": "jQuery",
+              "subSkills": [
+                ""
+              ],
+              "category": "Front-End",
+              "section": "",
+              "level": "4"
+            },
+            {
+              "id": 10,
+              "userId": 1,
+              "skill": "Express",
+              "subSkills": [
+                ""
+              ],
+              "category": "Back-End",
+              "section": "",
+              "level": "3"
+            },
+            {
+              "id": 11,
+              "userId": 1,
+              "skill": "Git",
+              "subSkills": [
+                "Git-CLI"
+              ],
+              "category": "Version Control",
+              "section": "",
+              "level": "4"
+            },
+            {
+              "id": 12,
+              "userId": 1,
+              "skill": "Networking, Routing & Switching",
+              "subSkills": [
+                "HTTP/HTTPS",
+                "TCP/IP",
+                "IP Subnetting",
+                "VPN",
+                "DHCP",
+                "DNS",
+                "VLAN",
+                "Wireless"
+              ],
+              "category": "Networking",
+              "section": "",
+              "level": "5"
+            },
+            {
+              "id": 13,
+              "userId": 1,
+              "skill": "SDLC Agile Development",
+              "subSkills": [
+                "Agile"
+              ],
+              "category": "Soft Skills",
+              "section": "",
+              "level": "4"
+            },
+            {
+              "id": 14,
+              "userId": 1,
+              "skill": "Customer Service",
+              "subSkills": [
+                ""
+              ],
+              "category": "Soft Skills",
+              "section": "",
+              "level": "4"
+            },
+            {
+              "id": 15,
+              "userId": 1,
+              "skill": "Team Player",
+              "subSkills": [
+                ""
+              ],
+              "category": "Soft Skills",
+              "section": "",
+              "level": "5"
+            },
+            {
+              "id": 16,
+              "userId": 1,
+              "skill": "Documentation",
+              "subSkills": [
+                "Code Comment",
+                "Note"
+              ],
+              "category": "Soft Skills",
+              "section": "",
+              "level": "5"
+            },
+            {
+              "id": 17,
+              "userId": 1,
+              "skill": "Database",
+              "subSkills": [
+                "SQL",
+                "NoSQL",
+                "MySQL",
+                "MongoDB"
+              ],
+              "category": "Back-End",
+              "section": "",
+              "level": "5"
+            },
+            {
+              "id": 18,
+              "userId": 1,
+              "skill": "Microsoft Office",
+              "subSkills": [
+                "Word",
+                "Excel",
+                "PowerPoint",
+                "Outlook"
+              ],
+              "category": "Office",
+              "section": "",
+              "level": "5"
+            },
+            {
+              "id": 20,
+              "userId": 1,
+              "skill": "PHP",
+              "subSkills": [
+                ""
+              ],
+              "category": "Programming Languages",
+              "section": "",
+              "level": "4"
+            },
+            {
+              "id": 21,
+              "userId": 1,
+              "skill": "JAVA",
+              "subSkills": [
+                ""
+              ],
+              "category": "Programming Languages",
+              "section": "",
+              "level": "4"
+            },
+            {
+              "id": 22,
+              "userId": 1,
+              "skill": "JavaScript",
+              "subSkills": [
+                "ES6"
+              ],
+              "category": "Programming Languages",
+              "section": "",
+              "level": "5"
+            }
+          ],
+        "languages": [
+            {
+                "id": 1,
+                "userId": 1,
+                "language": "English",
+                "fluency": "Professional Proficiency"
+            },
+            {
+                "id": 2,
+                "userId": 1,
+                "language": "Chinese - Mandarin",
+                "fluency": "Native Speaker"
+            }
+        ],
+        "projectsInfo": [
+          {
+            "id": 1,
+            "userId": 1,
+            "projectTitle": "Car Reservation (HTML, CSS, JavaScript(jQuery), JSON Data)",
+            "startDate": "April 2021",
+            "endDate": "May 2021",
+            "organizationName": "University of Technology Sydney",
+            "type": "University Assignment",
+            "descriptionText": "Scaleable car reservation system, import external JSON type data file and load it into the system. The system allows users to select different types of car, leasing periods and a total price will be displayed after users input all their personal details. Variable also used session and cookies.",
+            "sourceCode": "https://github.com/taochensyd/assignment_car_reservation",
+            "livePage": "",
+            "authorID": "1"
+          },
+          {
+            "id": 2,
+            "userId": 1,
+            "projectTitle": "Online Grocery Page (HTML, CSS, JavaScript, PHP, SQL)",
+            "startDate": "March 2021",
+            "endDate": "April 2021",
+            "organizationName": "University of Technology Sydney",
+            "type": "University Assignment",
+            "descriptionText": "An online grocery page displaying items in a tree layout structure. Data of the items were retrieved from the backend using PHP and SQL. Session and cookies were used on the client-side. The shopping cart displays all selections of grocery items. A total price was calculated at the end of the checkout.",
+            "sourceCode": "https://github.com/taochensyd/assignment_grocery_page",
+            "livePage": "",
+            "authorID": "1"
+          }
+        ]
+    }
+}
